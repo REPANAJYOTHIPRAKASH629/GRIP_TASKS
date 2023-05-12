@@ -13,3 +13,21 @@ Data for this model can be found at : http://bit.ly/w-data.
 
 What are we supposed to do with the given dataset?
 We need to predict the score of the student if he/she studies for 9.25 hrs/day.
+
+
+Task2
+Prediction using Unsupervised ML
+● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+● Dataset : https://bit.ly/3kXTdox
+
+
+Task 3
+Exploratory Data Analysis
+● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
+
+● As a business manager, try to find out the weak areas where you can work to make more profit.
+
+● What all business problems you can derive by exploring the data?
+
+● Dataset: https://bit.ly/3i4rbWl
